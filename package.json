@@ -1,0 +1,33 @@
+{
+  "name": "account-map-us-update-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack && node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jziesing/minimal-react-router-v4-webpack-babel-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jziesing/minimal-react-router-v4-webpack-babel-setup/issues"
+  },
+  "homepage": "https://github.com/jziesing/minimal-react-router-v4-webpack-babel-setup#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "babel-loader": "^8.2.2",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "webpack": "^5.8.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
