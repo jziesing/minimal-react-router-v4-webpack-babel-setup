@@ -11,6 +11,9 @@ basic template to make react apps with:
 **this project is just a template to use instead of create-react-app**
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jziesing/minimal-react-router-v4-webpack-babel-setup)
+
+
 ### Install
 
 Using [npm](https://www.npmjs.com/):

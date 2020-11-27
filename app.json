@@ -1,0 +1,7 @@
+{
+  "name": "minimal-react-router-v4-webpack-babel-setup",
+  "description": "Template for react & react router apps that use a node.js server and NOT create-react-app",
+  "repository": "https://github.com/jziesing/minimal-react-router-v4-webpack-babel-setup",
+  "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-react-logo-redux-webpack-babel-6339921%2F&psig=AOvVaw2pWRWqm_Y-VU1CVw0ohlwa&ust=1606543792790000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi0wZWIou0CFQAAAAAdAAAAABAD",
+  "keywords": ["node", "express", "static", "react", "react-router", "react-router-dom"]
+}
