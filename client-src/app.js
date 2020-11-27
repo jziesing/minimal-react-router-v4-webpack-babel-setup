@@ -16,7 +16,6 @@ const App = () => (
         {' '}
         <Link to="/">Login</Link>
         {' '}
-        <strong>react-router-dom-example</strong>
       </header>
       <main>
         <Switch>
